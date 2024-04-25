@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @udayanvashistha
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning Reactjs
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me - udayanvashistha9756@gmsil.com
+👋 Hello, I'm @udayanvashistha.
 
-<!---
-udayanvashistha/udayanvashistha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I have a keen interest in web designing.
+
+🌱 Currently, I'm diving into the world of React.js to broaden my skill set.
+
+💞 I'm open to collaboration opportunities on exciting projects.
+
+📫 You can reach out to me via email at udayanvashistha9756@gmail.com.
+
+Looking forward to connecting with fellow enthusiasts and professionals in the web design community!
+
